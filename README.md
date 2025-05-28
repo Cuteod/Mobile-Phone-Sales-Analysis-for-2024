@@ -1,6 +1,6 @@
 # Mobile-Phone-Sales-Analysis-for-2024
 
-![](https://github.com/Cuteod/Mobile-Phone-Sales-Analysis-for-2024/blob/main/shiwa-id-Uae7ouMw91A-unsplash.jpg)
+![](https://cdn.pixabay.com/photo/2017/11/10/20/10/phone-2937561_1280.jpg)
 
 ## Introduction
 
